@@ -1,0 +1,20 @@
+A neural network is a brain-inspired computing system using interconnected nodes
+ (neurons) in layers to recognize patterns, learn from data, and make predictions,
+  functioning as a core part of artificial intelligence (AI) and deep learning to solve complex tasks like image recognition and language processing by adjusting connection strengths (weights) to minimize errors.  
+
+  STRUCTURE:
+  It consists of an input layer then a hidden(processing) layer and then an output layer.
+
+  NEURONS:
+  Each neuron(node) recieves an input processes it and passes it to the output layer.
+
+  WEIGHTS:
+  The connection between each neuron is called weights, these weights
+  change their values while the model is learning,signifying connection
+  strengths.
+
+Learning (Training):
+->Feed data through the network (forward pass). 
+->Calculate the error (difference between prediction and actual). 
+->Propagate the error backward (backpropagation) to find how much each weight contributed. 
+->Adjust weights to reduce future errors (weight update). 
