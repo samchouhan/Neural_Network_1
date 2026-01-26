@@ -1,3 +1,7 @@
+###
+Basically A FUNCTION BUILDIN MACHINE
+###
+
 A neural network is a brain-inspired computing system using interconnected nodes
  (neurons) in layers to recognize patterns, learn from data, and make predictions,
   functioning as a core part of artificial intelligence (AI) and deep learning to solve complex tasks like image recognition and language processing by adjusting connection strengths (weights) to minimize errors.  
