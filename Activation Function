@@ -1,0 +1,11 @@
+An Activation function:
+
+takes the raw neuron output (z)
+
+reshapes it ,decides how strongly the neuron fires.
+
+Mathematically:
+
+        𝑜𝑢tput=f(z)
+
+Where f is ReLU, sigmoid, etc.
