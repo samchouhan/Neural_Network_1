@@ -1,6 +1,6 @@
 #The more the data(batch) given to the neural network the easier it is for it to reach the output layer
 #More batches = Better Prediction
-# So we will be increasing the batch this time
+# So we will be increasing the batch(input) this time
 #Increasing inputs does not affect the lawyer composition cause lawyers only consists of weights and biases
 import numpy as np      
 inputs = [[1, 2, 3, 2.5],
