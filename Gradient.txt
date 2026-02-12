@@ -1,0 +1,2 @@
+Gradient in Neural Network
+A gradient tells you how much and in which direction to change a weight to reduce error.
