@@ -12,3 +12,6 @@ bias = [2,3,0.5]
 
 output = np.dot(inputs, np.array(weights).T) + bias
 print(output)
+
+
+#output = XWᵀ + b
