@@ -27,6 +27,7 @@ Learning (Training):
 ->Adjust weights to reduce future errors (weight update). 
 
 CORE Components of NEURAL NETWORK
+-> Input
 -> weights
 -> bias
 -> loss function
